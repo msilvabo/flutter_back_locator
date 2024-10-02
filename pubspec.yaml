@@ -1,11 +1,11 @@
-name: git a
-description: "A new Flutter package project."
+name: flutter_back_locator
+description: "package backgprundf location android and ios"
 version: 0.0.1
-homepage:
+homepage: https://github.com/msilvabo/flutter_back_locator
 
 environment:
   sdk: ^3.5.0
-  flutter: ">=1.17.0"
+  flutter: ">=1.20.0"
 
 dependencies:
   flutter:
